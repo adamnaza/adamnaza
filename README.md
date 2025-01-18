@@ -2,8 +2,7 @@
 - 👀 I’m interested in machine learning, data analytics, and Visualization.
 - 🌱 I’m currently learning basic languages to pursue more Data Analytics and Visualization, may be going for an internship within that field :)
 - 💞️ I’m looking forward to learning more about programming itself
-- 📫 How to reach me;
-- Instagram: @adamchenaza
+
 
 
 <!---
