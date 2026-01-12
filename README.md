@@ -1,4 +1,4 @@
-👋 Hey, I’m Adam! I’m a Senior Year Computer Science student at Pennsylvania State University, specializing in Data Science, Analytics, and Machine Learning. I love solving problems with code, data, and algorithms, building predictive models, and developing web applications using Java, JavaScript, React Three.js, SpringBoot, and more.
+👋 Hey, I’m Adam! I’m a Senior Year Computer Science student at Pennsylvania State University, a part time freelance specializing in Data Science, Analytics, and Machine Learning. I love solving problems with code, data, and algorithms, building predictive models, and developing web applications using Java, JavaScript, React Three.js, SpringBoot, and more.
 
 💡 Some of my projects include forecasting trends, training, optimizing ML models, and building financial systems. I’m always experimenting with new technologies, sharing insights, and creating cool things along the way.
 
